@@ -17,7 +17,7 @@
   A 16 bit Sprite occupies (2 * width * height) bytes in RAM.
 
   An 8 bit Sprite occupies (width * height) bytes in RAM.
-
+ 
   https://github.com/espressif/arduino-esp32/tree/master/libraries/SD
 */
 
